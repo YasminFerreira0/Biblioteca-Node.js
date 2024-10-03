@@ -1,4 +1,4 @@
-function trataErros(erro){
+export default function trataErros(erro){
     if(erro.code === 'ENOENT'){
         throw new Error('Arquivo nao encontrado');
     }else{
@@ -6,4 +6,5 @@ function trataErros(erro){
     }
 }
 
-module.exports = trataErros;
+//module.exports = trataErros; //forma 'nativa' de lidar com exportacoes no node
+//package.json  - arquivo manifesto, contem as infomcoes que a aplicacao precisa para executar
