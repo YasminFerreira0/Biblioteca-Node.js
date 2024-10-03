@@ -1,3 +1,41 @@
-palavras dublicadas do paragrafo 5: uma 
-palavras dublicadas do paragrafo 12: dispositivos, web, seu, conectado 
-palavras dublicadas do paragrafo 14: cliente, uma, para 
+palavras dublicadas do paragrafo 5: que, você, tenha 
+palavras dublicadas do paragrafo 16: que, estão 
+palavras dublicadas do paragrafo 18: que 
+palavras dublicadas do paragrafo 20: kanban 
+palavras dublicadas do paragrafo 25: scrum, por, quadro, que, alguns 
+palavras dublicadas do paragrafo 28: sistema, para 
+palavras dublicadas do paragrafo 32: modelo, kanban, para, desenvolvimento, software, pensamento, com, método 
+palavras dublicadas do paragrafo 36: anderson, método, kanban, com, palavra, “k”, dos 
+palavras dublicadas do paragrafo 38: kanban, como, método, que, forma, framework, implementação 
+palavras dublicadas do paragrafo 40: uma, metodologia, método 
+palavras dublicadas do paragrafo 44: kanban, que, entrega, valor 
+palavras dublicadas do paragrafo 46: uma 
+palavras dublicadas do paragrafo 49: kanban, características, para 
+palavras dublicadas do paragrafo 51: trabalho 
+palavras dublicadas do paragrafo 53: tempo, preparação 
+palavras dublicadas do paragrafo 55: layout, máquinas, trabalho, reduzir 
+palavras dublicadas do paragrafo 57: padronização 
+palavras dublicadas do paragrafo 59: por, kanban 
+palavras dublicadas do paragrafo 61: para 
+palavras dublicadas do paragrafo 64: kanban 
+palavras dublicadas do paragrafo 66: produção, etapas, que, etapa 
+palavras dublicadas do paragrafo 68: kanban, para, material 
+palavras dublicadas do paragrafo 70: kanban, produção 
+palavras dublicadas do paragrafo 73: uma 
+palavras dublicadas do paragrafo 86: controle, sistema 
+palavras dublicadas do paragrafo 89: vantagens 
+palavras dublicadas do paragrafo 91: trabalho 
+palavras dublicadas do paragrafo 93: dinamismo, entre, pessoas, trabalho, equipe 
+palavras dublicadas do paragrafo 95: ambiente, colaboração, trabalho, todas 
+palavras dublicadas do paragrafo 97: autonomia 
+palavras dublicadas do paragrafo 99: forma, problemas 
+palavras dublicadas do paragrafo 101: trabalho, esforços, com 
+palavras dublicadas do paragrafo 103: quais, estão, que, sejam 
+palavras dublicadas do paragrafo 105: kanban 
+palavras dublicadas do paragrafo 108: método, que, “comece, pelo, você 
+palavras dublicadas do paragrafo 112: lean 
+palavras dublicadas do paragrafo 114: pensamento, ágil 
+palavras dublicadas do paragrafo 116: sistema, puxado, oposição, para 
+palavras dublicadas do paragrafo 118: seu, valor, para 
+palavras dublicadas do paragrafo 123: que, produto, valor, carro, por, deslocamento 
+palavras dublicadas do paragrafo 126: que, valor, desperdício, parte 

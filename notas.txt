@@ -1,0 +1,24 @@
+o funcionamento de uma função callback envolve a chamada (ou execução) da função interna após a finalização da função mais externa, quando os dados resultantes são passados como parâmetro.
+
+Promise (ou promessa), um objeto que representa a eventual resolução de um processamento assíncrono.
+
+https://nodejs.org/api/process.html#processargv
+
+https://nodejs.org/api/fs.html#fsreadfilepath-options-callback
+
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/flatMap
+
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Error
+
+https://www.alura.com.br/artigos/guia-importacao-exportacao-modulos-javascript
+
+https://www.alura.com.br/artigos/async-await-no-javascript-o-que-e-e-quando-usar
+
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Promise
+
+https://www.npmjs.com/package/commander
+
+https://www.npmjs.com/package/chalk
+
+
+// o npm é um repositorio de codigo expecifico, node packge manager, repositorio de pacotes do node

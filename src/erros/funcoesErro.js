@@ -7,4 +7,4 @@ export default function trataErros(erro){
 }
 
 //module.exports = trataErros; //forma 'nativa' de lidar com exportacoes no node
-//package.json  - arquivo manifesto, contem as infomcoes que a aplicacao precisa para executar
+//package.json  - arquivo manifesto, contem as infomcoes que a aplicacao precisa para executar(npm ini -y)
