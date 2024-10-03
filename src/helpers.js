@@ -8,7 +8,7 @@ function montaSaidaArquivo(listaPalavras){
     let textoFinal = '';
     listaPalavras.forEach((paragrafo, indice) => {//todo metodo callback de array tem o parametro principal que e o elemento, e um parametro opcional que e o indice
         const duplicadas = filtaOcorrencias(paragrafo).join(', ');//metodo para transformar arrays em string
-        textoFinal += `palavras dublicadas do paragrafo ${indice+1}: ${duplicadas} \n`
+        if(duplicadas != 0) textoFinal += `palavras dublicadas do paragrafo ${indice+1}: ${duplicadas} \n`
     });
     return textoFinal;
 }
