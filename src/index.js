@@ -1,30 +1,23 @@
 export function contaPalavras(texto){
     const paragrafos = extrairParagrafos(texto);
-    const contagem = paragrafos.flatMap((paragrafo) => {//O método flatMap() primeiro mapeia cada elemento usando uma função de mapeamento e, em seguida, nivela o resultado em um novo array.
+    const contagem = paragrafos.flatMap((paragrafo) => {
         if (!paragrafo) return [];
         return verificapalavrasDublicadas(paragrafo);
     });
 
     return contagem;
-}
+}// Primeiro separa o texto em paragrafos com a função extrairparagrafos(), depois ela percorre mapeando e pra cada paragrafo conta as palavras duplicadas, quardando o resultado em um novo array.
 
 function extrairParagrafos(texto){
-    return texto.toLowerCase().split('\n');//transforma as letras maiusculas em menusculas e inclui um separador de quebra de linha
-}
-
-/*function quebraEmParagrafos(texto){
-    .filter((paragrafo) => paragrafo).map((paragrafo) =>{
-        return verificapalavrasDublicadas(paragrafo);
-    });
-}*/
+    return texto.toLowerCase().split('\n');
+}//separa o texto em paragrafos
 
 function limpaPalavras(palavra){
-    return palavra.replace(/[.,\/#!$%\^&\*;:{}=\-_`~()]/g, '');//expressão regular
+    return palavra.replace(/[.,\/#!$%\^&\*;:{}=\-_`~()]/g, '');
 }
 
-
 function verificapalavrasDublicadas(texto){
-    const listaPalavras = texto.split(' '); // parametro separador
+    const listaPalavras = texto.split(' ');
     const resultado = {};
 
     listaPalavras.forEach(palavra =>{
@@ -32,7 +25,6 @@ function verificapalavrasDublicadas(texto){
             const palavraLimpa = limpaPalavras(palavra)
             resultado[palavraLimpa] = (resultado[palavraLimpa] || 0) + 1;
         }
-});
+});// primeiro separa o texto por palavras com o parametro separador, depois percorro a array e faz a contagem de ocorrencias de cada palavra.
 return resultado;
-
 }
